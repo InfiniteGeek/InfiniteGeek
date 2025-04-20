@@ -1,1 +1,1 @@
-https://stats.justsong.cn/api/bilibili/?id=1302624960
+<img src="https://stats.justsong.cn/api/bilibili/?id=1302624960&cn=true" style="box-shadow:none !important">
