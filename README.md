@@ -10,7 +10,7 @@
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniteGeek&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" style="box-shadow:none !important">
-    <img src="https://stats.justsong.cn/api/bilibili/?id=1302624960&&lang=zh-CN&theme=dark" style="box-shadow:none !important">
+    <img src="https://stats.justsong.cn/api/bilibili/?id=1302624960&lang=zh-CN&theme=dark" style="box-shadow:none !important">
 </p>
 
 <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=InfiniteGeek&theme=github-compact&hide_border=true&area=true" />
