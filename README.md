@@ -16,9 +16,8 @@
     <img src="https://skillicons.dev/icons?i=github,html,java,idea,eclipse,photoshop,powershell,windows,apple,linux,firebase,matlab,mysql,gmail" />
     <div>&nbsp;</div>
     <!-- dynamic typing effect Github数据 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=InfiniteGeek&theme=radical"/>
-    <img src="https://stats.justsong.cn/api/bilibili/?id=1302624960&lang=zh-CN&theme=radical"/>
-    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=InfiniteGeek&theme=github-compact&hide_border=true&area=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=InfiniteGeek&theme=radical&hide_border""https://stats.justsong.cn/api/bilibili/?id=1302624960&lang=zh-CN&theme=radical"><img src="https://stats.justsong.cn/api/bilibili/?id=1302624960&lang=zh-CN&theme=radical"/>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfiniteGeek&theme=github-compact&hide_border=true"/>
 </div>
 
 
