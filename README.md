@@ -16,7 +16,7 @@
     <img src="https://skillicons.dev/icons?i=github,html,java,idea,eclipse,photoshop,powershell,windows,apple,linux,firebase,matlab,mysql,gmail" />
     <div>&nbsp;</div>
     <!-- 数据面板 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=InfiniteGeek&theme=radical" width="400"/><img src="https://stats.justsong.cn/api/bilibili/?id=1302624960&lang=zh-CN&theme=radical" width="335"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=InfiniteGeek&theme=radical" width="400"/><img src="https://stats.justsong.cn/api/bilibili/?id=1302624960&lang=zh-CN&theme=radical" width="330"/>
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfiniteGeek&theme=github-compact&hide_border=true"/>
 </div>
 
