@@ -21,6 +21,6 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=InfiniteGeek&theme=github-compact&hide_border=true"/>
 </div>
 
-## 请我喝杯咖啡:coffee:
+## 请我喝杯咖啡 :coffee:
 
 <img src="https://cdn.jsdelivr.net/gh/InfiniteGeek/Picture/windows/%E8%AF%B7%E6%88%91%E5%96%9D%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1.png" width="60%" align="center" />
