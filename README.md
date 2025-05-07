@@ -1,7 +1,3 @@
-
-
-
-
 <div align="center">
     <!-- dynamic typing effect 动态打字效果 -->
     <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=800&size=26&pause=1000&width=435&center=true&lines=Will+come+to+my+Github+home+page!"/>
@@ -20,10 +16,13 @@
     <img src="https://skillicons.dev/icons?i=github,html,java,idea,eclipse,photoshop,powershell,windows,apple,linux,firebase,matlab,mysql,gmail" />
     <div>&nbsp;</div>
     <!-- dynamic typing effect Github数据 -->
-    <img src="https://github-readme-stats.vercel.app/api?username=InfiniteGeek&show_icons=true&theme=radical"/><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InfiniteGeek&size_weight=0.5&count_weight=0.5&langs_count=8&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=InfiniteGeek&theme=radical"/>
+    <img src="https://stats.justsong.cn/api/bilibili/?id=1302624960&lang=zh-CN&theme=radical"/>
     <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=InfiniteGeek&theme=github-compact&hide_border=true&area=true" />
 </div>
 
 
 
+## 请我喝杯咖啡:coffee:
 
+<img src="https://cdn.jsdelivr.net/gh/InfiniteGeek/Picture/windows/%E8%AF%B7%E6%88%91%E5%96%9D%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1.png" width="60%" align="left" />
